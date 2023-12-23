@@ -1,0 +1,15 @@
+{
+  "pairingNumber": "6289528652225",
+  "PORT": 8080,
+  "storeName": "Razzaq Market",
+  "self": false,
+  "bannerMenu": "store",
+  "sales": true,
+  "storeVersion": "V1.0.2",
+  "storeGLink": "https://chat.whatsapp.com/HX0AuwvX7XSA7yOpdGFElA",
+  "prefix": {
+    "singlePrefix": "#",
+    "noPrefix": "",
+    "multiPrefx": true
+  }
+}
